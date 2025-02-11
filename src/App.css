@@ -4,7 +4,7 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  background-color: lightblue;
+  background-color: rgb(47, 82, 94);
 }
 
 .calculator {
@@ -34,12 +34,12 @@ h1 {
   width: 100%;
   height: 60px;
   border-radius: 10px;
-  background-color: lightgreen;
+  background-color: rgb(203, 144, 238);
   margin: 20px 0 0 0;
   padding: 0 10px 0 10px;
   font-size: 50px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  color: darkgreen;
+  color: rgb(196, 219, 20);
 }
 
 .button {
